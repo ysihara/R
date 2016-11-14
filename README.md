@@ -109,6 +109,7 @@ Sys.getenv("R_PROFILE_USER")
 「RStudio」を起動＞「Tools」＞「Global Options...」＞「General」から、「R version:」および「Default working directory (when not in a project):」の「R」を最新のものに変更します。
 
 「RStudio」を再起動し、設定が反映されているか確認して完了です。
+<br />
 
 ### 参照リンク
 * [CRANのホームページ][]
