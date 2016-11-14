@@ -11,7 +11,7 @@
 * [Step1:「R」のダウンロードとインストール](#anchor1)
 * [Step2: インストール後の設定](#anchor2)
 * [Step3: 設定の確認](#anchor3)
-
+* [オプション: 「RStudio」の設定](#anchor4)
 
 
 <a id="anchor1"></a>
@@ -97,6 +97,17 @@ Sys.getenv("R_PROFILE_USER")
 以上で「R」のインストールおよび基本設定の完了です。お疲れ様でした。
 
 「R」をアップデートする際も、ここに記載したものと同様の手順でアップデートおよびその後の設定ができます。
+
+<a id="anchor4"></a>
+<a href="#anchor4"></a>  
+## オプション: 「RStudio」の設定
+<!--ここに第4章の内容を書きます。-->
+
+「RStudio」を使用している場合は、利用する「R」の設定を変更しておきましょう。
+
+「RStudio」を起動＞「Tools」＞「Global Options...」＞「General」から、「R version:」および「Default working directory (when not in a project):」の「R」を最新のものに変更します。
+
+「RStudio」を再起動し、設定が反映されているか確認して完了です。
 
 ### 参照リンク
 * [CRANのホームページ][]
