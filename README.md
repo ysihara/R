@@ -12,7 +12,7 @@
 <a href="#anchor1"></a>  
 #### Step1:「R」のダウンロードとインストール
 <!--ここに第1章の内容を書きます。-->
-まず、Windows用のインストーラを[CRANのホームページ](https://cran.r-project.org/)からダウンロードします。
+まず、Windows用のインストーラを[CRANのホームページ][]からダウンロードします。
 
 <a id="anchor2"></a>
 <a href="#anchor2"></a>
@@ -24,3 +24,7 @@
 <a href="#anchor3"></a>
 #### Step3: 設定の確認
 <!--ここに第3章の内容を書きます。-->
+
+
+
+[CRANのホームページ]:	https://cran.r-project.org/	"CRANホームページ"
